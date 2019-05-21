@@ -42,12 +42,9 @@ public class ship extends Actor
     energyBar B=new energyBar();
     public void startup(){
         if (start==false){
-            turret t= new turret();
+            
             Konstante= new drifta();
-            getWorld().addObject(t,getX(),getY());
-            getWorld().addObject(t,getX(),getY());  
-            t.glued=this;
-            getWorld().addObject(Konstante,getX(),getY());
+            
             getWorld().addObject(Konstante,getX(),getY());  
 
             start=true;
