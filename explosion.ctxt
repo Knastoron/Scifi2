@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=explosion()
+comment1.params=s
+comment1.target=explosion(java.lang.String)
+comment2.params=
+comment2.target=void\ initialiseImages()
+comment2.text=\ \r\n\ Erzeugt\ die\ Bilder\ f\u00FCr\ die\ Explosion.\r\n
+comment3.params=
+comment3.target=void\ explosionDamage()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Die\ Explosion\ vergr\u00F6\u00DFert\ sich,\ wird\ wieder\ kleiner\ und\ verschwindet.\r\n
+numComments=5
