@@ -1,0 +1,66 @@
+PETSCHNOUTS:
+-Voll funktionierender bewegender Hintergrund
+	-4 bilder
+	-kleinere bilder
+	-bugs behoben
+	-Movement relativ zum hintergrund implementiert
+-Warpdrive
+	-Movement+Waffen wärend des Warps gelockt
+	-warp muss eigenständig beendet werden
+-Waffe:
+	Allg.
+	-entfernen bei kollision+wandberührung
+	
+	-laserbeam
+		-durchgehender laserstrahl
+	-schrot:
+		-icon angepasst
+		-langsamere frequenz, mehr projektile
+-TestApfel als Schaden nehmender Gegner, 
+
+Weitere ideen:
+	-implementation einer HEAT mechanik für waffenbeschränkung
+	-warp wegmarker
+	-"bau-waffe"
+3.3
+raketen teilweise gefixt
+driften implementiert
+neues schifsmodel
+warp und normaler antrieb haben jetzt animationen
+
+3.5
+mininglaser overhaul-DONE
+drops und ressourcen-DONE
+gegner-TODO
+Station+funktionen-teilweise erledigt
+Baumenü-DONE
+mr schmmsch- implementiert und genau so usefull wie in RL
+Asteroiden- momentaner generator kann als basis verwendet werden
+SAVEGAME- TODO, nicht mehr machbar in der zeit
+Wegpunkte-TODO
+HUD-TODO
+3.6 ka...
+3.7
+Raketen aim gefixt
+rotationsbug vmtl gefixt xd
+asteroiden spawnen jetzt in ringen um die startposition rum
+gegner ab ner distanz von 12K
+3.9
+pointer aka radar
+gegner droppen blaues zeug
+upgradescreen v1 eingebaut
+radar wird aktiviert mit bau einer station (+1 radarupgrade)
+
+4.0
+PreRelease version
+Upgrades implementiert
+...alle...
+bugs beseitigt,ka welche aber irgendwelche warens
+Energie"währung" implementiert, Reaktor upgradebar
+alle sachen fressen energie
+"ziel des Spiels"- 1mio einheiten wegfliegen
+ressourcenanzeige+ressourcenverbrauch
+QualitätsHUD
+warpantrieb leicht gebufft, kann als booster fungieren
+turret existent, aber nicht mehr interagierbar(schießt noch, aber keine upgrades)
+
